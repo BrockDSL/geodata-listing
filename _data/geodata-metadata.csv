@@ -1,4 +1,4 @@
-objectid,filename,title,subject,creator,date,,Link,format,source,type,location,description
+objectid,filename,title,subject,creator,date,,link,format,source,type,location,description
 brockgeodata001,geoportal.jpg,Scholars GeoPortal,Scholars GeoPortal,Sharon Janzen,2021-02-19,,http://geo2.scholarsportal.info/,image/jpeg,Scholars GeoPortal,image/jpeg,"Niagara, Ontario, Canada",Access a variety of Ontario and Canada-wide datasets available to current members of the Brock University community.
 brockgeodata002,niagararegionOD.jpg,Open Data Niagara Region ,Open;Data;Niagara;,Sharon Janzen,2021-02-19,,https://niagaraopendata.ca/,image/jpeg,Open Data,GIS,Niagara,"Download GIS data layers for Niagara Region including cultural features, land use planning, recreation, transportation and more."
 brockgeodata003,wellandOD.jpg,Open Data Welland ,Open;Data;Welland,Sharon Janzen,2021-02-19,,https://www.welland.ca/open/,image/jpeg,Open Data,GIS,Welland,"Download GIS data layers for the city of Welland including cultural features, land use planning, recreation, transportation and more."
