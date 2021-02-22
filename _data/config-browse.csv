@@ -1,4 +1,4 @@
 field,display_name,btn,hidden,sort_name
 subject,,true
 location,,true
-link,Link,true,,
+link,,,true,
