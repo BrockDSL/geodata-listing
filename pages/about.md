@@ -10,11 +10,11 @@ permalink: /about.html
 
 {% include feature/nav-menu.html sections="About the Collection;Contact Us" %}
 
-## About the Collection
+# About the Collection
 
 This collection of geospatial data fact sheets provides a sample of GIS data available to the Brock University community as well as some open data available to the broader public community. For more information, or assistance with finding data specific to your teaching and research needs please contact us directly.
 
-## Contact Us
+# Contact Us
 
 Sharon Janzen, Geospatial Data Coordinator 
 *sjanzen@brocku.ca
