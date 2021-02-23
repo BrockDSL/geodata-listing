@@ -8,18 +8,23 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Contact Us" %}
 
 ## About the Collection
 
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection of geospatial data fact sheets provides a sample of GIS data available to the Brock University community as well as some open data available to the broader public community. For more information, or assistance with finding data specific to your teaching and research needs please contact us directly.
 
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
 
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+## Contact Us
 
-## About the About Page
+Sharon Janzen, Geospatial Data Coordinator 
+sjanzen@brocku.ca
+Twitter: @sjanzen
+
+
+{% include feature/item-figure.html objectid="brockgeodata018" width="75" %}
+
+------------------------------------------------
 
 We want to make About pages exciting, and easy to build. 
 
