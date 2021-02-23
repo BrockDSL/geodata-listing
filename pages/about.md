@@ -16,13 +16,15 @@ This collection of geospatial data fact sheets provides a sample of GIS data ava
 
 # Contact Us
 
-Sharon Janzen, Geospatial Data Coordinator 
-[sjanzen@brocku.ca] (mailto:sjanzen@brocku.ca)
-Twitter: @sjanzen
-
 Map, Data & GIS Library
 maplib@brocku.ca
 Twitter: @BrockU_MDGL
+
+Sharon Janzen, Geospatial Data Coordinator 
+[sjanzen@brocku.ca](mailto:sjanzen@brocku.ca)
+Twitter: @sjanzen
+
+
 
 -------------------------------------------------
 
