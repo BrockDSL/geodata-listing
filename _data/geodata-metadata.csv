@@ -67,13 +67,17 @@ brockgeodata068,streetlights.jpg,South St. Catharines Streetlights,Streetlights,
 brockgeodata069,transit.jpg,St. Catharines Transit 2015,Transit,Sharon Janzen,2/19/2021,,https://brocku.ca/library/collections/mdg/maps-geodata/st-catharines-transit-data-2015/,image/jpeg,Brock Licensed,GIS,St.Catharines,"The St. Catharines Transit Commission has provided transit stops, routes and additional network data for public transportation planning."
 brockgeodata070,StCatharinesOP.jpg,St. Catharines Official Plan 2014,Official Plan,Sharon Janzen,2/19/2021,,https://brocku.ca/library/collections/mdg/maps-geodata/st-catharines-official-plan-2014/,image/jpeg,Brock Licensed,GIS,St.Catharines,"These GIS layers represent themes expressed in the Garden City Official Plan 2014. For example: heritage districts, transportation network, bicycle network, municipal structure, general land use, land use designation, parklands, trail systems, potential development constraints and community improvement areas."
 brockgeodata071,Landcover2002GTA.jpg,Landcover 2002 Greater Toronto Area,Landcover; land use; landuse,Sharon Janzen,2/19/2021,,https://brocku.ca/library/collections/mdg/maps-geodata/gta-landcover-2002/,image/jpeg,Brock Licensed,GIS,Toronto,Grid and layer files describing landcover for the GTA.
-brockgeodata072,CASI1500-Osoyoos.jpg,"CASI-1500 VNIR (hyperspectral) Imagery (Osoyoos, BC)",CASI-1500 ,Sharon Janzen,2/19/2021,,https://brocku.ca/library/collections/mdg/maps-geodata/casi-1500-vnir-hyperspectral-imagery/,image/jpeg,Brock Licensed,RS,British Columbia,"Hyperspectral visible near Infrared (VNIR) remote sensing imagery 
-
-
-
-
-
-with a 1500 pixel field of view at 1.5m resolution for a sample area in Osoyoos, BC."
+brockgeodata072,CASI1500-Osoyoos.jpg,"CASI-1500 VNIR (hyperspectral) Imagery (Osoyoos, BC)",CASI-1500 ,Sharon Janzen,2/19/2021,,https://brocku.ca/library/collections/mdg/maps-geodata/casi-1500-vnir-hyperspectral-imagery/,image/jpeg,Brock Licensed,RS,British Columbia,"The CASI-1500 is an airborne sensor that captures hyperspectral visible near Infrared (VNIR) imagery with a 1500 pixel field of view, at 1.5 m resolution. This remote sensing image of the agricultural area in Osoyoos, British Columbia has been supplied for academic purposes by ITRES Research. CASI-1500 hyperspectral VNIR imagery has been used in applications such as detecting crop disease, mapping wetland species, water quality.  Airborne sensor: CASI-1500
+Aircraft velocity: 120 knots
+Aircraft altitude: ~3000m AGL
+Bandwidth: 7.2nm
+Spectral Range:
+Band 01 = 367.2nm +/- 3.6nm
+Band 72 = 1046.7nm +/- 3.6nm
+Date: August 1, 2012
+Format: .img, .hdr
+Resolution: 1.5m pixel resolution
+Sky Conditions: clear"
 brockgeodata073,CASI1500-UofC.jpg,"CASI-1500 VNIR (hyperspectral) Imagery (University of Calgary, AB)",CASI-1500,Sharon Janzen,2/19/2021,,https://brocku.ca/library/collections/mdg/maps-geodata/casi-1500-vnir-hyperspectral-imagery-u-of-calgary/,image/jpeg,Brock Licensed,RS,Alberta,These sample data include hyperspectral visible near Infrared (VNIR) remote sensing imagery with a 1500 pixel field of view at 25cm resolution.
 brockgeodata074,CanadianWeatherStns.jpg,Canadian Weather Stations,Weather Stations,Sharon Janzen,2/19/2021,,https://brocku.ca/library/collections/mdg/maps-geodata/canada-weather-stations/,image/jpeg,Open Data,GIS,Canada,Point data representing weather stations associated with Canadian Climate Normals organized by province.
 brockgeodata075,CLUMP.jpg,Canada Land Use Monitoring Program (CLUMP),Landcover; land use; landuse,Sharon Janzen,2/19/2021,,https://brocku.ca/library/collections/mdg/maps-geodata/canada-land-use-monitoring-program-clump/,image/jpeg,Open Data,GIS,Canada,"Vector land use data collected in two phases consisting of the following years: [1966, 1971, 1976] and [1981-1986] with differing land use/activity/land cover classifications for urban areas across Canada."
