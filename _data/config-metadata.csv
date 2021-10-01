@@ -2,6 +2,7 @@ field,display_name,browse_link
 title,Title,
 creator,Creator,
 description,Description,
+citation,Citation,
 subject,Subjects,true
 location,Location
 latitude,Latitude
