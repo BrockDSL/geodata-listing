@@ -2,14 +2,17 @@ field,display_name,browse_link
 title,Title,
 creator,Creator,
 description,Description,
-citation,Citation,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier
+location,Location,
+latitude,Latitude,
+longitude,Longitude,
+source,Source,
+identifier,Source Identifier,
 type,Type,
 rights,Rights,
 rightsstatement,Rights Statement,
-link,Link,true
+citation,Citation,
+related information,Related Information,
+link,Link,TRUE
+subject,Subjects,TRUE
+restrictions,Restrictions,
+local access,Local Access,
